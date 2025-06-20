@@ -14,4 +14,4 @@ def main():
     result = reverse_string(user_input)
     print(f"Перевернутый текст: {result}")
 
-main()  # Просто вызываем функцию напрямую!
+main()  # Просто вызываем функцию напрямую! Bla
